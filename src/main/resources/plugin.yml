@@ -1,0 +1,13 @@
+main: me.aberdeener.commandexecutor.Main
+name: CommandEx
+author: Aberdeener
+version: 0.0.1
+description: Yea
+api-version: 1.15
+
+commands:
+  hmm:
+    description: haha
+  huh:
+    aliases: [tellallplayers]
+    description: hehe
